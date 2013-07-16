@@ -1,0 +1,75 @@
+cambrai.1/CODE in/FW nomine/FW dei/FW summi/FW ./. 
+
+cambrai.2/CODE siquis/FW uult/FW post/FW me/FW uenire/FW ,/, abneget/FW semet/FW ipsum/FW 
+
+cambrai.3/CODE et/CONJ tollat/FW crucem/FW suam/FW ,/, 
+
+cambrai.4/CODE et/CONJ sequatur/FW me/FW ./. 
+
+cambrai.5/CODE insce/N-N inso/D+D as-ber/PV+VB ar/PRO$ fe:da/N-N i:su/NPR-N fri/P cach/Q n/NAS o:en/NUM-A din/P+D-D len/LEN cene:lu/N-D doi:ne/NS-G are/C n/NAS indarbe/VB-SUBJ a/PRO$ dualchi/NS-A ood/P+PRO ocus/CONJ a/PRO$ pecthu/NS-A ocus/CONJ ara/C tino:la/VB-SUBJ soalchi/NS-A ocus/CONJ are/C n/NAS airema/VB-SUBJ futhu/NS-A ocus/CONJ airde/NS-A cruche/N-G ar/P chri:st/NPR-D ,/, ce:in/WADV bes/BE-SUBJ-WH i/P comus/VBN-D coirp/N-G ocus/CONJ anme/N-G ,/, aire/C sechethar/VB-SUBJ slictu/NS-A ar/PRO$ fe:dot/N-G i/P n/NAS dag-imratib/ADJ+VBNS-D ./. 
+
+cambrai.6/CODE is/COP aire/ADV as-ber/PV+VB :/: si/FW quis/FW uult/FW post/FW me/FW uenire/FW ,/, abneget/FW semet/FW ipsum/FW 
+
+cambrai.7/CODE et/CONJ tollat/FW crucem/FW suam/FW ,/, 
+
+cambrai.8/CODE ocuis/CONJ ticsath/VBV a/PRO$ len/LEN cruich/N-A ,/, 
+
+cambrai.9/CODE et/CONJ sequatur/FW me/FW ,/, 
+
+cambrai.10/CODE ocuis/CONJ nu-m-secheth/PV+X+VBV se/PRO ./. 
+
+cambrai.11/CODE is/COP ee/PRO ar/PRO$ n/NAS diltuth/VBN-N du:nn/P+PRO fanissin/SELF ma/P ni/NEG cometsam/VB-SUBJ de/P ar/PRO$ tolaib/NS-D ocuis/CONJ ma/P fris-tossam/PV+VB-SUBJ de/P ar/PRO$ pecthib/NS-G ./. 
+
+cambrai.12/CODE is/COP si:/PRO ticsa:l/VBN-N ar/PRO$ cruche/N-G du:nn/P+PRO furnn/P+PRO ma/P ar-foímam/PV+VB dammint/N-A ocus/CONJ martri/N-A ocus/CONJ coicsath/VBN-A ar/P len/LEN criist/NPR-D ;/; 
+
+cambrai.13/CODE amal/P ass-ind-ber/PV+XW+VB alaile/OTHER :/: et/CONJ nomen/FW crux/FW quippe/FW a/FW cruciatu/FW dicitur/FW ,/, 
+
+cambrai.14/CODE et/CONJ duobus/FW modis/FW crucem/FW domini/FW baiulamus/FW ,/, cum/FW aut/FW per/FW abstinentiam/FW carnem/FW efficiamus/FW aut/FW per/FW conpassionem/FW proximi/FW necessitatem/FW illius/FW nostram/FW esse/FW putamus/FW ;/; 
+
+cambrai.15/CODE qui/FW enim/FW dolorem/FW exhibet/FW in/FW aliena/FW necessitate/FW crucem/FW portat/FW in/FW mente/FW ,/, 
+
+cambrai.16/CODE ut/FW paulus/FW ait/FW :/: portate/FW onera/FW uestra/FW inuicem/FW ,/, 
+
+cambrai.17/CODE sic/FW adimplebitis/FW legem/FW christi/FW ./. 
+
+cambrai.18/CODE ocus/CONJ as-beir/PV+VB daniu/FP ind/D-G apostol/N-N :/: flete/FW cum/FW flentibus/FW ,/, 
+
+cambrai.19/CODE gaudete/FW cum/FW gaudentibus/FW ./. 
+
+cambrai.20/CODE si/FW patiatur/FW unum/FW membrum/FW ,/, compatientur/FW omnia/FW membra/FW ./. 
+
+cambrai.21/CODE air/P iss/COP e:/PRO a/PRO$ bees/N-N 
+
+cambrai.22/CODE ma/P beth/BE-SUBJ na/Q galar/N-N bec/ADJ-N for/P corp/N-D duini/N-G ma/P gorith/VB-SUBJ locc/N-A cith/WQ+COP-SUBJ in/P e/PRO$ len/LEN cuis/N-D nu:/CONJ in/P e/PRO$ la:im/N-D nu:/CONJ in/P e/PRO$ me:raib/NS-D fo-geir/PV+VB a/D-N n/NAS ggalar/N-N in/D-A uile/Q corp/N-A :/: 
+
+cambrai.23/CODE is/COP samlith/ADV is/COP comadas/ADJ-N duun/P+PRO len/LEN canisin/SELF fo-ngera/PV+NAS+VB-SUBJ cach/Q n/NAS e:rnail/VBN-A *oi:n* -/- oire/P nu-ndem/PV+NAS+COP membur/NS-N uili/Q du/P dea/NPR-D -/- nach/Q ce:ssath/VBN-N ocus/CONJ na/Q galar/N-N bess/BE-SUBJ-WH fair/P e/PRO$ len/LEN comnessam/N-D ;/; 
+
+cambrai.24/CODE amail/P ass-ind-beir/PV+XW+VB apostulus/FW :/: quis/FW scandalizatur/FW et/CONJ ego/FW non/FW uror/FW ?/? 
+
+cambrai.25/CODE quis/FW infirmatur/FW et/CONJ ego/FW non/FW infirmor/FW ?/? 
+
+cambrai.26/CODE ni/NEG fil/BE </CODE hui/?? dea/?? >/CODE ./. 
+
+cambrai.27/CODE au-t-rubert/PV+X+VBD-RO ind/D-N no:eb-apstol/ADJ+N-N inso/D+D o:/P imbud/N-D a/PRO$ deserce/N-G 
+
+cambrai.28/CODE ba/COPD galar/N-N do:/P+PRO galar/N-N ca:ich/Q$ ,/, 
+
+cambrai.29/CODE ba/COPD frithorgon/VBN-N do:/P+PRO frithorgon/VBN-N len/LEN ca:ich/Q$ ,/, 
+
+cambrai.30/CODE ba/COPD lobre/N-N do:/P+PRO lobre/N-N len/LEN ca:ich/Q$ ./. 
+
+cambrai.31/CODE is/COP samlith/ADV is/COP comadas/ADJ-N du/P cach/Q oi:n/NUM o:n/P+PRO ni/PRO aure/C coicsa/VB-SUBJ fri/P ca:ch/Q in/P ae/PRO$ sa:eth/N-D ocus/CONJ in/P ae/PRO$ dommetu/N-D ocus/CONJ in/P ae/PRO$ lobri/N-D ./. 
+
+cambrai.32/CODE ad-ciam/PV+VB i/P snaib/DS-D inscib/NS-D sceo/CONJ eulis/N-D ind/D-G aecni/N-G as/COP-WH ar/P len/LEN cene:l/N-D cruche/N-G ad-ri:mther/PV+VB-PASS in/D-N coicsath/VBN-N ./. 
+
+cambrai.33/CODE filus/BE+PRO tre-chene:lae/NUM+NS-A martre/N-G daneu/FP ad-ri:miter/PV+VB-PASS ar/P len/LEN cruich/N-D du/P duiniu/N-D ,/, mad/P+COP-SUBJ esgre/VBN-N *ma de-s-gne:* baan-martre/ADJ+N-N ocus/CONJ glas-martre/ADJ+N-N ocus/CONJ derc-martre/ADJ+N-N 
+
+cambrai.34/CODE is/COP si:/PRO ba:n-martre/ADJ+N-N du/P duiniu/N-D intain/WADV scaras/VB-WH ar/P dea/NPR-D fri/P cach/Q reet/N-A caris/VB-WH ,/, ce:/P ru-céssa/VB-SUBJ-RO áini/N-A nú/CONJ laubir/N-A n/NAS oco/P+PRO ./. 
+
+cambrai.35/CODE is/COP si:/PRO ind/D-N glas-martre/ADJ+N-N do:/P+PRO intain/WADV scaras/VB-WH fri/P a/PRO$ len/LEN tola/NS-A leo:/P+PRO *lee* l-/CONJ ce:ssas/VB-WH saíthor/N-A *sai:thor* i/P ppenit/N-D ocus/CONJ aithrigi/VBN-D ./. 
+
+cambrai.36/CODE is/COP si:/PRO in/D-N derc-martre/ADJ+N-N do:/P+PRO foditu/VBN-N len/LEN cruche/N-G ocus/CONJ diorcne/VBN-G ar/P len/LEN cri:st/NPR-D amail/P to-ndeccomnuccuir/PV+NAS+VBD du/P ndaib/DS-D abstolaib/NS-D oc/P ingrimmim/VBN-D inna/DS-G clo:en/NS-G ocuis/CONJ oc/P forcetul/VBN-D recto/N-G dee/NPR-G ./. 
+
+cambrai.37/CODE con-gaibetar/PV+VB inna/DS-N tre-chene:l/NUM+NS-N martre/N-G so/D i/P s/NAS snib/DS-D colnidib/ADJ-S-D tu-the:got/PV+LEN+VB dag-athrigi/ADJ+N-A ,/, scarde/VB-WH fri/P a/PRO$ tola/NS-A ,/, ce:ste/VB-WH sáithu/NS-A ,/, tu-esmot/PV+VB a/PRO$ fuil/N-A i/P n/NAS ai:ni/N-D ocuis/CONJ i/P laubair/N-D ar/P len/LEN cri:st/NPR-D ./. 
+
+cambrai.38/CODE filus/BE+PRO daneu/FP tre-chene:le/NUM+NS-A martre/N-G ata/COP-WH lo:gma:ra/ADJ-S-N le/P dea/NPR-A ,/, ar/P a/WPRO n/NAS etatham/VBF ni/PRO fochrici/NS-A ma/P no-s-comalnnamar/PV+X+VB-SUBJ -/- castitas/FW in/FW iuuentute/FW ,/, contientia/FW in/FW habundantia/FW ./. de/FW muneribus/FW peruertentibus/FW recta/FW iudicia/FW non/FW recipiendis/FW ./. 
