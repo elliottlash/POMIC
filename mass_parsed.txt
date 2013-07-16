@@ -649,7 +649,7 @@
 	  (~ ~)
 	  (TRANS: "What_was_the_left_to_him,_it_is_that_which_is_the_right_to_Christ.")))
 
-( (IP-MAT (CODE mass.37)
+( (IP-MAT (CODE mass.38)
 	  (CODE 16.)
 	  (BE-S ataat)
 	  (NP-SBJ (NUM .uii.) (NAS n) (NS-N gne))
