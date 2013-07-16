@@ -42,7 +42,7 @@ cambrai.21/CODE air/P iss/COP e:/PRO a/PRO$ bees/N-N
 
 cambrai.22/CODE ma/P beth/BE-SUBJ na/Q galar/N-N bec/ADJ-N for/P corp/N-D duini/N-G ma/P gorith/VB-SUBJ locc/N-A cith/WQ+COP-SUBJ in/P e/PRO$ len/LEN cuis/N-D nu:/CONJ in/P e/PRO$ la:im/N-D nu:/CONJ in/P e/PRO$ me:raib/NS-D fo-geir/PV+VB a/D-N n/NAS ggalar/N-N in/D-A uile/Q corp/N-A :/: 
 
-cambrai.23/CODE is/COP samlith/ADV is/COP comadas/ADJ-N duun/P+PRO len/LEN canisin/SELF fo-ngera/PV+NAS+VB-SUBJ cach/Q n/NAS e:rnail/VBN-A *oi:n* -/- oire/P nu-ndem/PV+NAS+COP membur/NS-N uili/Q du/P dea/NPR-D -/- nach/Q ce:ssath/VBN-N ocus/CONJ na/Q galar/N-N bess/BE-SUBJ-WH fair/P e/PRO$ len/LEN comnessam/N-D ;/; 
+cambrai.23/CODE is/COP samlith/ADV is/COP comadas/ADJ-N duun/P+PRO len/LEN canisin/SELF fo-ngera/PV+NAS+VB-SUBJ cach/Q n/NAS e:rnail/VBN-A or_read/CODE oi:n/NUM -/- oire/P nu-ndem/PV+NAS+COP membur/NS-N uili/Q du/P dea/NPR-D -/- nach/Q ce:ssath/VBN-N ocus/CONJ na/Q galar/N-N bess/BE-SUBJ-WH fair/P e/PRO$ len/LEN comnessam/N-D ;/; 
 
 cambrai.24/CODE amail/P ass-ind-beir/PV+XW+VB apostulus/FW :/: quis/FW scandalizatur/FW et/CONJ ego/FW non/FW uror/FW ?/? 
 
@@ -62,11 +62,11 @@ cambrai.31/CODE is/COP samlith/ADV is/COP comadas/ADJ-N du/P cach/Q oi:n/NUM o:n
 
 cambrai.32/CODE ad-ciam/PV+VB i/P snaib/DS-D inscib/NS-D sceo/CONJ eulis/N-D ind/D-G aecni/N-G as/COP-WH ar/P len/LEN cene:l/N-D cruche/N-G ad-ri:mther/PV+VB-PASS in/D-N coicsath/VBN-N ./. 
 
-cambrai.33/CODE filus/BE+PRO tre-chene:lae/NUM+NS-A martre/N-G daneu/FP ad-ri:miter/PV+VB-PASS ar/P len/LEN cruich/N-D du/P duiniu/N-D ,/, mad/P+COP-SUBJ esgre/VBN-N *ma de-s-gne:* baan-martre/ADJ+N-N ocus/CONJ glas-martre/ADJ+N-N ocus/CONJ derc-martre/ADJ+N-N 
+cambrai.33/CODE filus/BE+PRO tre-chene:lae/NUM+NS-A martre/N-G daneu/FP ad-ri:miter/PV+VB-PASS ar/P len/LEN cruich/N-D du/P duiniu/N-D ,/, mad/P+COP-SUBJ esgre/VBN-N or_read ma/P de-s-gne:/PV+X+VB-SUBJ baan-martre/ADJ+N-N ocus/CONJ glas-martre/ADJ+N-N ocus/CONJ derc-martre/ADJ+N-N 
 
 cambrai.34/CODE is/COP si:/PRO ba:n-martre/ADJ+N-N du/P duiniu/N-D intain/WADV scaras/VB-WH ar/P dea/NPR-D fri/P cach/Q reet/N-A caris/VB-WH ,/, ce:/P ru-céssa/VB-SUBJ-RO áini/N-A nú/CONJ laubir/N-A n/NAS oco/P+PRO ./. 
 
-cambrai.35/CODE is/COP si:/PRO ind/D-N glas-martre/ADJ+N-N do:/P+PRO intain/WADV scaras/VB-WH fri/P a/PRO$ len/LEN tola/NS-A leo:/P+PRO *lee* l-/CONJ ce:ssas/VB-WH saíthor/N-A *sai:thor* i/P ppenit/N-D ocus/CONJ aithrigi/VBN-D ./. 
+cambrai.35/CODE is/COP si:/PRO ind/D-N glas-martre/ADJ+N-N do:/P+PRO intain/WADV scaras/VB-WH fri/P a/PRO$ len/LEN tola/NS-A leo:/P+PRO l-/CONJ ce:ssas/VB-WH sai:thor/N-A i/P ppenit/N-D ocus/CONJ aithrigi/VBN-D ./. 
 
 cambrai.36/CODE is/COP si:/PRO in/D-N derc-martre/ADJ+N-N do:/P+PRO foditu/VBN-N len/LEN cruche/N-G ocus/CONJ diorcne/VBN-G ar/P len/LEN cri:st/NPR-D amail/P to-ndeccomnuccuir/PV+NAS+VBD du/P ndaib/DS-D abstolaib/NS-D oc/P ingrimmim/VBN-D inna/DS-G clo:en/NS-G ocuis/CONJ oc/P forcetul/VBN-D recto/N-G dee/NPR-G ./. 
 
