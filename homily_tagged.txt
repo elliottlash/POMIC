@@ -1,0 +1,183 @@
+homily.0/CODE atluchammar/VB buidi/N-A do/P día/NPR-D uile-chumachtach/Q+ADJ-D do/P len/LEN coimdid/N-D nime/N-G 7/CONJ talman/N-G ar/P a/PRO$ len/LEN trócairi/N-A 7/CONJ ar/P a/PRO$ dílgadchi/N-A ,/, ar/P a/PRO$ des.eircc/N-A 7/CONJ ar/P a/PRO$ deg-máini/ADJ+NS-A do-rat/PV+VBD-RO dúnn/P+PRO i/P nim/N-D 7/CONJ i/P talmain/N-D ./.
+
+homily.1/CODE is/COP di/P len/LEN suidiu/ANA-D as-beir/PV+VB in/D-N fáith/N-N :/: confitentur/FW tibi/FW ,/, domine/FW ,/, omnia/FW opera/FW tua/FW et/CONJ sancti/FW tui/FW confitentur/FW tibi/FW
+
+homily.2/CODE idest/IDEST atluchetar/VB duit/P+PRO siu/PRO ,/, a/P mo/PRO$ len/LEN coimdiu/N-N ,/, len/LEN t/PRO$ uili/Q gnímrada/NS-N 7/CONJ t/PRO$ uili/Q nóib/NS-N ./.
+
+homily.3/CODE ar/P dlegair/VB-PASS do/P naib/DS-D h/GEM uilib/Q-D dúilib/NS-D atlugud/VBN-N buide/N-G do/P día/NPR-D 7/CONJ a/PRO$ bendachad/VBN-N ,/, amal/P as-mberar/PV+NAS+VB-PASS :/: benedicite/FW omnia/FW opera/FW domini/FW domino/FW
+
+homily.4/CODE idest/IDEST bendachaid/VBV si/PRO ,/, á/P (?)/CODE gnímrada/NS-N in/D-G len/LEN coimded/N-G ,/, in/D-A coimdid/N-A ./.
+
+homily.5/CODE air/P cit/FP in/DS-N pecthaig/NS-N ní-s/NEG+X n/NAS díupair/VB día/NPR-N di/P a/PRO$ deg-móinib/ADJ+NS-D frecndaircib/ADJ-S-D ,/,
+
+homily.6/CODE amal/P as-mbeir/PV+NAS+VB in/D-N scríptúir/N-N :/: bonus/FW est/FW deus/FW qui/FW dat/FW iustis/FW et/CONJ inuistis/FW bona/FW terrae/FW in/FW commune/FW
+
+homily.7/CODE idest/IDEST is/COP dúthrachtach/ADJ-N día/NPR-N 7/CONJ is/COP sainemail/ADJ-N ,/,  
+
+homily.8/CODE is/COP héside/PRO+ANA do-beir/PV+VB do/P naib/DS-D maithib/NS-D 7/CONJ do/P naib/DS-D olcaib/NS-D feba/NS-A inna/D-G talman/N-G i/P coitchennas/N-D ./.   
+
+homily.9/CODE air/P is/COP éseom/PRO+PRO int/D-N óen/NUM día/NPR-N sainemail/ADJ-N fil/BE cen/P tossach/N-A cen/P len/LEN forcenn/N-A ./.  
+
+homily.10/CODE is/COP é/PRO do-rósat/PV+VBD-RO na/DS-A h/GEM uili/Q 7/CONJ ro-da-cruthaigestar/R+XW+VBD 7/CONJ fo-da-loing/PV+XW+VB ó/P nirt/N-D a/PRO$ len/LEN cumachtai/N-G ./.  
+
+homily.11/CODE iss/COP é/PRO no-da-ail/PV+XW+VB 7/CONJ co-ta-ói/PV+XW+VB 7/CONJ no-da-fáiltigedar/PV+XW+VB 7/CONJ no-da-sorchaigedar/PV+XW+VB 7/CONJ co-ta-midethar/PV+XW+VB 7/CONJ do-da-raithchiúir/PV+XW+VBD-RO 7/CONJ a-ta-núigedar/PV+XW+VB na/DS-A h/GEM uili/Q ./.  
+
+homily.12/CODE is/COP ind/P+PRO no-sn-erbat/PV+X+VB ,/,  
+
+homily.13/CODE is/COP é/PRO fris-n-aiccet/PV+NAS+VB ;/;  
+
+homily.14/CODE ar/P is/COP é/PRO as/COP-WH rí/N-N na/DS-G ríg/NS-G 7/CONJ as/COP-WH len/LEN coimdiu/N-N na/DS-G coimded/NS-G ,/, tuistid/N-N nime/N-G 7/CONJ talman/N-G ,/, cruthaigthid/N-N aingel/NS-G ,/, forcetlaid/N-N fáithe/NS-G ,/, magistir/N-N apstal/NS-G ,/, tindnachtaid/N-N rechta/N-G ,/, brithem/N-N fer/NS-G m/NAS betha/N-G ;/;  
+
+homily.15/CODE is/COP ardu/ADJR-N nimib/NS-D ,/,  
+
+homily.16/CODE is/COP ísliu/ADJR-N talmanaib/NS-D ,/,  
+
+homily.17/CODE is/COP letha/ADJR-N muirib/NS-D ./.  
+
+homily.18/CODE dlegair/VB-PASS dano/FP atlugud/VBN-N a/PRO$ deg-máine/ADJ+NS-G don/P+D-D choimdid/N-D sin/D ./.  
+
+homily.19/CODE ar/P is/COP tempul/N-N 7/CONJ is/COP atrab/N-N do/P día/NPR-D ind/D-N anim/N-N buidech/ADJ-N atluchethar/VB-WH do/P día/NPR-D a/PRO$ deoladacht/N-A ,/,  
+
+homily.20/CODE amal/P as-mbeir/PV+NAS+VB petar/NPR-N :/: animam/FW gratias/FW agentem/FW ac/FW familiarem/FW sibi/FW facit/FW deus/FW  
+
+homily.21/CODE idest/IDEST in/D-N duine/N-N atluchethar/VB-WH buidi/N-A a/PRO$ deg-máine/ADJ+NS-G do/P día/NPR-D is/COP ferann/N-N sain-díles/ADJ+ADJ-N side/ANA do/P ríg/N-D na/DS-G n-/NAS uile/Q ./.  
+
+homily.22/CODE in/D-N duine/N-N dimdach/ADJ-N immurgu/ADV di/P deg-máinib/ADJ+NS-D dé/NPR-G is/COP tempul/N-N 7/CONJ is/COP atrab/N-N do/P diabul/NPR-D ,/,  
+
+homily.23/CODE amal/P as-mbeir/PV+NAS+VB petar/NPR-N :/: ingratam/FW animam/FW malus/FW possidet/FW demon/FW  
+
+homily.24/CODE idest/IDEST selbaigid/VB 7/CONJ atreba/VB in/D-N demun/N-N olc/ADJ-N anmain/N-A in/D-G dimdaig/N-G nád/NEG+WH atlaigethar/VB a/PRO$ deg-máini/ADJ+NS-A do/P día/NPR-D ./.  
+
+homily.25/CODE is/COP dind/P+D-D atlugud/VBN-D sin/D as-berat/PV+VB :/: tibi/FW gratias/FW agunt/FW animae/FW nostrae/FW pro/FW innumeris/FW beneficiis/N-N tuis/FW ,/,  
+
+homily.26/CODE idest/IDEST gníit/VB ar/PRO$ n-/NAS anmain/NS-N ni/PRO atlaigthiu/VBNS-A buide/N-G duit/P+PRO siu/PRO ,/, á/P mo/PRO$ choimdiu/N-N ,/, ar/P do/PRO$ deg-máinib/ADJ+NS-D diármithib/ADJ-S-D i/P n/NAS nim/N-D 7/CONJ i/P talmain/N-D  
+
+homily.27/CODE bendacht/N-N tra/FP coimded/N-G nime/N-G 7/CONJ talman/N-G for/P cach/Q n-/NAS óen/NUM tarnecmar/VBD ,/, for/P a/PRO$ len/LEN techt/N-A maige/N-G 7/CONJ taige/N-G ,/, for/P a/PRO$ beó-dil/ADJ+N-A 7/CONJ a/PRO$ marb-dil/ADJ+N-A ,/, for/P cách/Q fo-d-ngní/PV+XW+VB 7/CONJ con-étet/PV+VB dó/P+PRO ./.  
+
+homily.28/CODE do-rata/PV+VB-SUBJ-RO in/D-N talam/N-N a/PRO$ toirthiu/NS-A (?)/CODE ,/,  
+
+homily.29/CODE do-rata/PV+VB-SUBJ-RO int/D-N aier/N-N a/PRO$ bróinu/NS-A ,/,  
+
+homily.30/CODE do-rata/PV+VB-SUBJ-RO a/D-N m/NAS muir/N-N a/PRO$ íascrada/NS-A (?)/CODE ,/,  
+
+homily.31/CODE fo-roirbrea/PV+VB-SUBJ-RO ith/N-N 7/CONJ mlicht/N-N 7/CONJ mil/N-N 7/CONJ len/LEN cruithnecht/N-N do/P len/LEN cách/Q as/COP-WH a/PRO$ sáithur/N-N 7/CONJ as/COP-WH a/PRO$ dúthracht/N-N do-melam/PV+VB ;/;  
+
+homily.32/CODE do-rata/PV+VB-SUBJ-RO día/NPR-N a/PRO$ len/LEN cét-chutrummae/NUM+N-A dó/P+PRO i/P sin/D-D talmain/N-D se/D 7/CONJ flaith/N-D nime/N-G len/LEN tall/ADV ./.  
+
+homily.33/CODE ar/P intí/D-N+ONE ar-a-f.óim/PV+XW+VB muntir/N-A críst/NPR-G is/COP críst/NPR-N ar-a-fóim/PV+XW+VB and/ADV ,/,  
+
+homily.34/CODE amal/P as-m.beir/PV+NAS+VB som/PRO fesin/SELF :/: qui/FW uos/FW recipit/FW me/FW recipit/FW ,/,  
+
+homily.35/CODE qui/FW uos/FW spernit/FW me/FW spernit/FW  
+
+homily.36/CODE idest/IDEST intí/D-N+ONE ar-dob-fóim/PV+XW+VB si/PRO is/COP messe/PRO+PRO ar-a-fóim/PV+XW+VB ,/,  
+
+homily.37/CODE intí/D-N+ONE co-tib-nessa/PV+XW+VB si/PRO is/COP messe/PRO+PRO con-nessa/PV+VB and/ADV ./.  
+
+homily.38/CODE ataat/BE dano/FP cosmuiliusa/NS-N flatha/N-G nime/N-G 7/CONJ iffirnn/NPR-G i/P sin/D-D bith/N-D so/D ./.  
+
+homily.39/CODE cosmuilius/N-N iffirnn/NPR-G dano/FP and/ADV cétamus/ADV idest/IDEST gaimred/N-N 7/CONJ snechtae/N-N ,/, sín/N-N 7/CONJ úacht/N-N ,/, áes/N-N 7/CONJ len/LEN críne/N-N ,/, galar/N-N 7/CONJ bás/N-N ./.  
+
+homily.40/CODE cosmailius/N-N flatha/N-G nime/N-G and/ADV immurgu/ADV ,/, samrad/N-N 7/CONJ soinenn/N-N ,/, bláth/N-N 7/CONJ bile/N-N ,/, áilde/N-N 7/CONJ óitiu/N-N ,/, fleda/NS-N 7/CONJ tomalta/VBNS-N ,/, sóinmige/N-N 7/CONJ imbed/N-N cach/Q maithiusa/N-G ./.  
+
+homily.41/CODE is/COP dochum/P iffirnn/NPR-G immurgu/ADV cartfaid/VBF in/D-N coimdiu/N-N na/DS-A pecthachu/NS-A i/P l/NAS laithiu/N-D brátho/N-G ,/, a/WADV n-/NAS as-mbéra/PV+NAS+VBF friu/P+PRO-S :/: ite/FW maledicti/FW in/FW ignem/FW aeternum/FW qui/FW praeparatus/FW est/FW diabolo/FW et/CONJ angelis/FW eius/FW  
+
+homily.42/CODE eirgid/VBV á/P maldachtu/NS-N i/P s/NAS sin/D-A tenid/N-A suthain/ADJ-N ;/;  
+
+homily.43/CODE is/COP sí/PRO ade/ANA tene/N-N fo-ruired/PV+VBD-RO-PASS do/P diabul/NPR-D con/P a/PRO$ dóiscar-chéilib/ADJ+NS-D ./.  
+
+homily.44/CODE moircc/N-N tra/FP fri/P ssa/WPRO n-/NAS epera/VBF in/D-N coimdiu/N-N i/P l/NAS laithiu/N-D brátha/N-G bith/ADV atrab/VB-SUBJ i/P n-/NAS iffurnn/NPR-D co/P n-/NAS ilur/N-D a/PRO$ mór-phían/ADJ+NS-G ./.  
+
+homily.45/CODE ar/P is/COP ísel/ADJ-N a/PRO$ len/LEN suidigud/VBN-N ,/,  
+
+homily.46/CODE is/COP daingen/ADJ-N a/PRO$ imthimchell/VBN-N ,/,  
+
+homily.47/CODE is/COP dorchae/ADJ-N a/PRO$ len/LEN cróis/N-N  
+
+homily.48/CODE is/COP dubach/ADJ-N a/PRO$ len/LEN comatrab/VBN-N ,/,  
+
+homily.49/CODE is/COP mór/ADJ-N a/PRO$ bréntu/N-N ,/,  
+
+homily.50/CODE it/COP suthaini/ADJ-S-N  a/PRO$ bésti/NS-N ,/,  
+
+homily.51/CODE is/COP crinnel/ADJ-N a/PRO$ len/LEN talam/N-N ,/,  
+
+homily.52/CODE is/COP neph-thoirthech/ADJ+ADJ-N a/PRO$ lár/N-N ,/,  
+
+homily.53/CODE is/COP alt/N-N do/P len/LEN timmorcain/VBN-D ,/,  
+
+homily.54/CODE is/COP carcar/N-N do/P len/LEN comét/VBN-D ,/,  
+
+homily.55/CODE is/COP breó/N-N do/P loscud/VBN-D ,/,  
+
+homily.56/CODE is/COP lín/N-N do/P astud/VBN-D ,/,  
+
+homily.57/CODE is/COP srogell/N-N do/P essorcain/VBN-D ,/,  
+
+homily.58/CODE is/COP fáibur/N-N do/P athchumbu/VBN-D ,/,  
+
+homily.59/CODE is/COP adaig/N-N do/P erdallad/VBN-D ,/,  
+
+homily.60/CODE is/COP dé/N-N do/P múchud/VBN-D ,/,  
+
+homily.61/CODE is/COP croch/N-N do/P len/LEN píanad/VBN-D ,/,  
+
+homily.62/CODE is/COP claideb/N-N do/P dígail/N-D ./.  
+
+homily.63/CODE is/COP samlaid/ADV tra/FP ata/COP imgabthi/VBGR na/DS-N piana/NS-N sa/D tri/P lubair/N-A 7/CONJ légend/VBN-A ,/, tri/P áini/N-A 7/CONJ ernaigdi/VBN-A ,/, tri/P len/LEN fírinni/N-A 7/CONJ trócairi/N-A ,/, tri/P h/GEM iris/N-A 7/CONJ des.eircc/N-A ./.  
+
+homily.64/CODE ar/P intí/D-N+ONE comaillfes/VBF (?)/CODE inna/DS-A timnae/NS-A sa/D co-t-ngéra/PV+X+VBF in/D-N coimdiu/N-N cucai/P+PRO i/P l/NAS laithiu/N-D brátha/N-G ,/, a/WADV n-/NAS as-mbéra/PV+NAS+VBF friu/P+PRO-S :/: venite/FW benedicti/FW patris/FW mei/FW ,/,   
+
+homily.65/CODE possidete/FW regnum/FW quod/FW uobis/FW paratum/FW est/FW ab/FW origine/FW mundi/FW ,/,  
+
+homily.66/CODE táit/VBV a/P bendachtachu/NS-N m/PRO$ athar/N-G sa/PRO ,/,
+
+homily.67/CODE aittrebaid/VBV in/D-A flaith/N-A fo-ruired/PV+VBD-RO-PASS dúib/P+PRO-S ó/P len/LEN tossuch/N-D domuin/N-G ./.  
+
+homily.68/CODE is/COP cosnaidi/VBGR tra/FP ind/D-N len/LEN flaith/N-N nime/N-G ,/, ols.uide/WPRO as/COP-WH écsamail/ADJ-N fri/P sin/D-A flaith/N-A n/NAS dóendai/ADJ-A in/D-G betha/N-G frecndairc/ADJ-G ;/;  
+
+homily.69/CODE is/COP sí/PRO ade/ANA cartae/VB-WH ind/DS-N ríg/NS-N len/LEN talmandai/ADJ-S-N  ./.  
+
+homily.70/CODE ar-dalla/PV+VB amal/P len/LEN ciaig/N-D ,/,  
+
+homily.71/CODE marbaid/VB amal/P len/LEN cotlud/VBN-D ,/,  
+
+homily.72/CODE ad-chumban/PV+LEN+VB amal/P rind/N-D ,/,  
+
+homily.73/CODE etir-diben/PV+VB amal/P len/LEN fáibur/N-D ,/,  
+
+homily.74/CODE loscaid/VB amal/P tenid/N-D ,/,  
+
+homily.75/CODE bádid/VB amal/P muir/N-D ,/,  
+
+homily.76/CODE slocaid/VB amal/P len/LEN cuithe/N-D ,/,  
+
+homily.77/CODE for-diuclann/PV+VB amal/P béist/N-D ./.  
+
+homily.78/CODE ní/NEG samlaid/ADV immurgu/ADV ind/D-N len/LEN flaith/N-D ad-c[h]osnat/PV+LEN+VB (?)/CODE ind/DS-N nóib/NS-N 7/CONJ ind/DS-N len/LEN fíreóin/NS-N ./.  
+
+homily.79/CODE is/COP bláth/N-N lígdae/ADJ-N ar/P a/PRO$ er-glaini/ADJ+N-D ,/,  
+
+homily.80/CODE is/COP rían/N-N romra/N-G ar/P a/PRO$ er-cháini/ADJ+N-D ,/,  
+
+homily.81/CODE is/COP nem/N-N caindlech/ADJ-N ar/P a/PRO$ fír-s.oillsi/ADJ+N-D  
+
+homily.82/CODE is/COP lí/N-N súla/N-G ar/P a/PRO$ er-áildi/ADJ+N-D 7/CONJ ar/P a/PRO$ ir-meldchai/ADJ+N-D ,/,  
+
+homily.83/CODE is/COP log/N-N ar/P a/PRO$ sochraidi/N-D ,/,  
+
+homily.84/CODE is/COP crot/N-N ar/P a/PRO$ ceol-bindi/N+N-D ,/,  
+
+homily.85/CODE is/COP fled-ól/N+N-N ar/P a/PRO$ fín-mairi/N+N-D ,/,  
+
+homily.86/CODE is/COP fín-both/N+N-N ar/P a/PRO$ fír-gili/ADJ+N-D ./.  
+
+homily.87/CODE céinmair/ADJ-N ricfea/VBF in/D-A flaith/N-A airm/N-N i/P tá/BE día/NPR-N fadesin/SELF ,/, rí/N-N már/ADJ-N cáin/ADJ-N cumachtach/ADJ-N trén/ADJ-N nóeb/ADJ-N glan/ADJ-N fírían/ADJ-N féig/ADJ-N forsaid/ADJ-N trócar/ADJ-N dércach/ADJ-N deg-máinech/ADJ+ADJ-N sen/ADJ-N óac/ADJ-N ecnaid/ADJ-N úasal/ADJ-N indocbuide/ADJ-N cen/P tossach/N-A cen/P len/LEN forcenn/N-A cen/P áes/N-A cen/P erchre/N-A ./.  
+
+homily.88/CODE ro-ísam/PV+VB-SUBJ i/P flaith/N-A ind/D-G ríg/N-G sin/D ,/,  
+
+homily.89/CODE a-ta-roillem/PV+X+VB-SUBJ ,/,  
+
+homily.90/CODE a-ta-rothrebam/PV+X+VB-SUBJ-RO in/FW saecula/FW saeculorum/FW ./.  
+
+homily.91/CODE amen/FW ./.  
