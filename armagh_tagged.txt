@@ -1,0 +1,214 @@
+armagh.0/CODE hae/FW sunt/FW fines/FW quintae/FW partis/FW ./. idest/IDEST coicid/N-N caicháin/NPR-G otha/P glais/N-N telchae/NPR-G berich/NPR-G a/P braidne/NPR-D conrici/P forcuisin/NPR-A tuilgos/?? di/P sleib/N-D  otha/P glais/N-N conacolto/NPR-G cu/P rreiriu/NPR-A 7/CONJ ótha/P crích/N-N drommo/N-G ./. nit/NPR-G ./. cu/P glais/N-A tamlachtae/NPR-G dub-locho/ADJ+N-G la/P gglais/N-A cu/P grenlaich/NPR-A fote/NPR-A ./.  la/P ront/NPR-A ./. timchell/P na/D-G santo/NPR-G co/P sescen/N-A in/DS-G da/NUM cor/NS-G a/P sescunn/N-D da/NUM cor/NS-G la/P descert/N-A léni/NPR-G la/P fur/NPR-A conrici/P h/GEM ucht/N-A noi/NUM n-/NAS omne/NS-G co/P n/NAS dairiu/NPR-D mór/ADJ-D co/P n/NAS dairiu/NPR-D medóin/N-G co/P n/NAS dairiu/NPR-D fidas/NPR-D co/P n/NAS dairiu/NPR-D méil/NPR-D co/P n/NAS druim/N-D toidached/NPR-D la/P gglais/N-A conrici/P conaclid/NPR-A
+
+armagh.1/CODE a-t-rópert/PV+X+VBD-RO flaith/N-N 7/CONJ aithech/N-N inso/D+D h/GEM uile/Q i/P tosuch/N-D iar/P tabuirt/VBN-D baithis/N-G duaib/P+PRO
+
+armagh.2/CODE 2./CODE con-ggab/PV+VBD patricc/NPR-N iar/P n-/NAS a/PRO$ idpuirt/VBN-D i/P n/NAS druimm/N-D daro/NPR-G idest/IDEST druim/N-N lias/NPR-G ./. 
+
+armagh.3/CODE fácab/VBD patricc/NPR-N a/PRO$ daltae/N-A n-/NAS and/ADV
+
+armagh.4/CODE benignus/FW a/PRO$ ainm/N-N
+
+armagh.5/CODE 7/CONJ fuit/FW in/FW se/FW .xvii./NUM annís/FW
+
+armagh.6/CODE gabais/VBD caille/N-A la/P patricc/NPR-A lassar/NPR-N ingen/N-N anfolmithe/NPR-G di/P len/LEN ceniul/N-D caicháin/NPR-G
+
+armagh.7/CODE bai/BED ade/ANA and/ADV tarési/P m/NAS benigni/FW tri/NUM fichtea/NUM-A bliadne/NPR-G 
+
+armagh.8/CODE 3./CODE is/COP sí/PRO inso/D+D coibse/N-N fétho/NPR-G fio/NPR-G 7/CONJ a/PRO$ edocht/N-N di/NUM bliadin/NS-A re/P m/NAS bas/N-D dáu/P+PRO du/P manchuib/NS-D drommo/N-G lías/NPR-G 7/CONJ du/PRO maithib/ADJ-S-D callrigi/NPR-G iter/P cro-chaingel/N+N-A 7/CONJ altóir/N-A drommo/N-G lías/NPR-G nad/NEG-WH21/CODE con/NEG-WH22/CODE fil/BE finechas/N-N for/P druimm/N-D leas/NPR-G act/P cenél/N-D fétho/NPR-G fio/NPR-G ma/P beith/BE-SUBJ nech/Q bes/COP-SUBJ-WH maith/ADJ-N diib/P+PRO ADJ/COP-SUBJ-WH cráibdech/ADJ-N bes/COP-SUBJ-WH len/LEN cuibsech/ADJ-N din/P+D-D len/LEN chlaind/N-D
+
+armagh.9/CODE ma/P ni/NEG pé/BE-SUBJ du-écastar/PV+VB-SUBJ-PASS dús/WQ in/WP étar/VB-SUBJ-PASS di/P muintir/N-D drommo/N-G lías/NPR-G l-/CONJ di/P a/PRO$ manchib/NS-D
+
+armagh.10/CODE ma/P ni/NEG étar/VB-SUBJ-PASS du-bber/PV+VB-PASS décrad/N-N di/P muintir/N-D pátricc/NPR-G inte/P+PRO .../. ,/,
+
+armagh.11/CODE 4./CODE náo/NPR-N 7/CONJ nái/NPR-N fratris/FW patricii/FW quos/FW reliquit/FW ibi/FW patricius/FW et/CONJ daall/NPR-N filius/FW hencair/NPR-G ad-opart/PV+VBD ./. teora-leth-indli/NUM+N+NS-A tre/P a/PRO$ len/LEN tír/N-A patricio/FW in/FW sempiternum/FW
+
+armagh.12/CODE marii/FW obtulit/FW teora-leth-indli/NUM+N+NS-A tri/P a/PRO$ len/LEN tír/N-A
+
+armagh.13/CODE 7/CONJ obtulit/FW patricio/FW filium/FW mac/N-N rímae/NPR-G
+
+armagh.14/CODE 7/CONJ babtitzauit/FW eos/FW patricius/FW
+
+armagh.15/CODE 7/CONJ aedificauit/FW aeclesiam/FW in/FW heriditate/FW eorum/FW
+
+armagh.16/CODE et/CONJ regnum/FW offerebat/FW cum/FW eís/FW coirpre/NPR-N patricio/FW
+
+armagh.17/CODE 5./CODE imm-ráni/PV+VBD-RO ernéne/NPR-N do/P cummin/NPR-D 7/CONJ do/P alich/NPR-D 7/CONJ do/P ernin/NPR-D tír/N-A gimmae/NPR-G 7/CONJ muinae/N-A buachaele/N-G 7/CONJ tamnich/N-A
+
+armagh.18/CODE imm-ransat/PV+VBD-RO inna/DS-N .iii./NUM caillecha/NS-N so/D inna/DS-A tíre/NS-A so/D du/P patricc/NPR-D cu/P llae/N-A m/NAS brátho/N-G
+
+armagh.19/CODE 6./CODE di-rróggel/PV+VBD-RO cummen/NPR-N 7/CONJ brethán/NPR-N octher/NPR-A n-/NAS achid/NPR-G con/P a/PRO$ seilb/N-D iter/P fid/N-A 7/CONJ mag/N-A 7/CONJ lenu/NS-A con/P a/PRO$ llius/N-D 7/CONJ a/PRO$ llubgort/N-D
+
+armagh.20/CODE óg-diles/ADJ+ADJ-N didiu/FP du/P len/LEN cummin/NPR-D leth/N-N ind/D-G orpi/N-G so/D i/P n/NAS doim/N-D i/P n/NAS duiniu/N-D con/C ríccatar/VB-SUBJ-RO-PASS a/PRO$ seuít/NS-N frie/P+PRO idest/IDEST .iii/NUM ungai/NS-N argait/N-G 7/CONJ cann/N-N argit/N-G 7/CONJ muince/N-N .iii./NUM n-/NAS ungae/NS-G co/P n/NAS droch/N-D óir/N-G sen-mesib/ADJ+NS-D sen-airotib/ADJ+NS-D lóg/N-N leith/N-G ungae/N-G di/P muccib/NS-D 7/CONJ lóg/N-N leith/N-G ungae/N-G di/P len/LEN cáirib/NS-D 7/CONJ dillat/N-N leith/N-G ungae/N-G
+
+armagh.21/CODE sen-messib/ADJ+NS-D inso/D+D h/GEM uile/Q d/P fech/N-D tinoil/VBN-G
+
+armagh.22/CODE di-géni/PV+VBD cummen/NPR-N cétaig/N-A ríthae/VBD-PASS fri/P éladach/NPR-A macc/N-A maile/NPR-G odrae/N-G tigerne/N-N cremthinnae/NPR-G ar/P ech/N-A n/NAS donn/ADJ-A
+
+armagh.23/CODE ríthae/VBD-PASS int/D-N ech/N-N sin/D fri/P colmán/N-A na/DS-G m/NAS bretan/NPR-G ar/P len/LEN cumil/N-A n/NAS arggit/N-G
+
+armagh.24/CODE luid/VBD in/D-N len/LEN cumal/N-N sin/D du/P forlóg/N-D ochtir/NPR-G achid/NPR-G
+
+armagh.25/CODE 7./CODE patricius/FW et/CONJ isserninus/FW {/CODE IDEST/IDEST epscop/N-N fith/NPR-N }/CODE cum/FW germano/FW fuerunt/FW in/FW olsiodra/N-N ciuitate/FW
+
+armagh.26/CODE germanus/FW uero/FW isernino/FW dixit/FW ut/FW praedicare/FW in/FW hiberniam/FW ueniret/FW
+
+armagh.27/CODE atque/FW prumptus/FW fuit/FW oboedire/FW etiam/FW in/FW quamcumque/FW partem/FW mitteretur/FW nisi/FW in/FW hiberniam/FW
+
+armagh.28/CODE germanus/FW dixit/FW patricio/FW et/CONJ tu/FW an/FW oboediens/FW eris/FW ./.
+
+armagh.29/CODE patricius/FW dixit/FW fiat/FW {/CODE cet/N-N }/CODE sicut/FW uís/FW
+
+armagh.30/CODE germanus/FW dixit/FW hoc/FW interuós/FW erit/FW
+
+armagh.31/CODE 7/CONJ non/FW potuerit/FW iserninus/FW in/FW hiberniam/FW non/FW transire/FW
+
+armagh.32/CODE 8./CODE patricius/FW uenit/FW in/FW hiberniam/FW
+
+armagh.33/CODE iserninus/FW uero/FW missus/FW est/FW in/FW aliam/FW regionem/FW
+
+armagh.34/CODE sed/FW uentus/FW contrarius/FW detulit/FW illum/FW in/FW dexteram/FW partem/FW hiberniae/FW
+
+armagh.35/CODE du-tét/PV+VB iar/P sin/D di/P a/PRO$ len/LEN cennadich/N-D aicme/N-N becc/ADJ-N i/P clíu/NPR-D
+
+armagh.36/CODE catrige/NPR-N a/PRO$ ainm/N-N
+
+armagh.37/CODE du-lluid/PV+VBD di/P suidiu/ANA-D con/C congab/VBD toicuile/NPR-A
+
+armagh.38/CODE facab/VBD nóib/N-A di/P a/PRO$ muintir/N-D and/ADV
+
+armagh.39/CODE luid/VBD iar/P suidiu/ANA-D con/C congab/VBD ráith/NPR-A foalascich/ADJ-A
+
+armagh.40/CODE facib/VBD nóib/N-A n-/NAS aile/OTHER i/P suidiu/ANA-D
+
+armagh.41/CODE du-lluid/PV+VBD di/P suidiu/ANA-D du/P láthruch/NPR-D da/NUM arad/NPRS-G i/P n/NAS dib/NUM-D maigib/NS-D
+
+armagh.42/CODE du-llotar/PV+VBD cuci/P+PRO i/P suidiu/ANA-D secht-maicc/NUM+NS-N cathboth/NPR-G
+
+armagh.43/CODE pridchis/VBD duaib/P+PRO
+
+armagh.44/CODE 7/CONJ crediderunt/FW
+
+armagh.45/CODE 7/CONJ baptitzati/FW sunt/FW
+
+armagh.46/CODE 7/CONJ luid/VBD leo/P+PRO fa/ADV21/CODE des/ADV21/CODE di/P a/PRO$ m/NAS mennut/N-D
+
+armagh.47/CODE fu-s-ocart/PV+X+VBD éndae/NPR-N cennsalach/ADJ-N fubíth/P in/D-G creitme/VBN-G ria/P cách/Q
+
+armagh.48/CODE luid/VBD epscop/N-N fith/NPR-N leo/P+PRO for/P longis/N-D cách/Q a/P leth/N-D ódib/P+PRO
+
+armagh.49/CODE ránic/VBD patricc/NPR-N ier/P suidiu/ANA-D
+
+armagh.50/CODE 7/CONJ crediderunt/FW sibi/FW septem/NUM filii/FW dúnlinge/NPR-G
+
+armagh.51/CODE luid/VBD iar/P suidiu/ANA-D cu/P crimthan/NPR-A macc/N-A n-/NAS éndi/NPR-G ceinnselich/ADJ-G
+
+armagh.52/CODE 7/CONJ ipse/FW credidit/FW ucc/P raith/NPR-D bilich/ADJ-D
+
+armagh.53/CODE áilsi/VBD+PRO patricc/NPR-N iar/P n-/NAS a/PRO$ baitzed/VBN-D ara/C teilced/VBD-SUBJ maccu/NS-A cathbad/NPR-G 7/CONJ isserninum/FW leo/P+PRO
+
+armagh.54/CODE 7/CONJ ad-cotedae/PV+VBD in/D-A n-/NAS itge/N-A
+
+armagh.55/CODE 9./CODE du-llotar/PV+VBD maicc/NS-N cathbad/NPR-G di/P a/PRO$ m/NAS mennut/N-D ier/P sin/D
+
+armagh.56/CODE is/COP de/P attáa/BE féna/NPR-N for/P fid/NPR-D
+
+armagh.57/CODE con/C tultatar/VBD dochum/P pátricc/NPR-G et/CONJ cremthinn/NPR-G maicc/N-G éndi/NPR-G uc/P scí/NPR-D pátric/NPR-G
+
+armagh.58/CODE 10./CODE ad-opuir/PV+VB crimthann/NPR-N macc/N-N éndi/NPR-G níi/?? d/P ulba/NPR-D griein/NPR-G fothart/NPRS-G o/P gabuir/N-D liphi/NPR-G corrici/P suide/VBN-A laigen/NPRS-G
+
+armagh.59/CODE sléchtid/VB isserninus/FW du/P pátricc/NPR-D for/P a/PRO$ manchi/N-D 7/CONJ a/PRO$ andoóit/N-D
+
+armagh.60/CODE du-bbeir/PV+VB patricc/NPR-N du/P epscop/N-D fith/NPR-D
+
+armagh.61/CODE 7/CONJ d-a-beir/PV+X+VB side/ANA du/P maccaib/NS-D cathbath/NPR-G
+
+armagh.62/CODE 7/CONJ con-gaib/PV+VB lethu/P+PRO áth/N-A fithot/NPR-G
+
+armagh.63/CODE 11./CODE du-lluid/PV+VBD pátricc/NPR-D o/P len/LEN temuir/NPR-D hi/P crích/N-A laigen/NPRS-G con/C ráncatar/VBD 7/CONJ dubthach/NPR-N maccu/NPR-N lugir/NPR-G ucc/P domnuch/NPR-D már/ADJ-D críathar/NPR-D la/P auu/NS-A censelich/NPR-G
+
+armagh.64/CODE áliss/VBD pátricc/NPR-N dubthach/NPR-A ucc/P domnuch/NPR-D im/P damnae/N-A n-/NAS epscuip/N-G di/P a/PRO$ desciplib/NS-D di/P laignib/NPRS-D idón/IDEST fer/N-N sóer/ADJ-N socheniúil/ADJ-N cen/P on/N-A cen/P ainim/N-A na/NEG-WH dip/COP-SUBJ ru-becc/ADV+ADJ-N na/NEG-WH dip/COP-SUBJ ro-mar/ADV+ADJ-N bed/COP-SUBJ a/PRO$ sommae/ADJ-N
+
+armagh.65/CODE toisc/N-N limm/P+PRO fer/N-N oín-sétche/NUM+N-G du/P na/NEG rructhae/VBI-PASS act/FP oen-tuistiu/NUM+N-N
+
+armagh.66/CODE fris-gart/PV+VBD dubtach/NPR-N ni/NEG fetor/VB sa/PRO dim/P+PRO$ muintir/N-D act/P fíacc/NPR-A find/ADJ-N di/P laignib/NPRS-D du-chooid/PV+LEN+VBD-RO huaim/P+PRO se/PRO hi/P tíre/NS-A connacht/NPSR-G
+
+armagh.67/CODE amail/P imm-ind-ráitset/PV+XW+VBD con-acatar/PV+VBD fiacc/NPR-A find/ADJ-N cuccu/P+PRO
+
+armagh.68/CODE as-bert/PV+VBD dubthach/NPR-N fri/P pátricc/NPR-A tair/VBV dum/P+PRO$ berrad/VBN-D sa/PRO
+
+armagh.69/CODE air/P fu-m-ré/PV+X+VBF se/PRO in/D-N fer/N-N dumm/P+PRO$ imdídnaad/VBN-D du/P a/PRO$ bberad/VBN-D tar/P21/CODE mu/PRO$ len/LEN cenn/P22
+
+armagh.70/CODE air/P is/COP már/ADJ-N a/PRO$ goire/N-N
+
+armagh.71/CODE is/COP di/P sin/D fu-rráith/PV+VBD fíacc/NPR-N fínd/ADJ-N dubthach/NPR-A
+
+armagh.72/CODE 7/CONJ berrsi/VBD+PRO pátricc/NPR-N
+
+armagh.73/CODE 7/CONJ baitzisi/VBD+PRO
+
+armagh.74/CODE du-bbert/PV+VBD grád/N-A n-/NAS epscoip/N-G foir/P+PRO
+
+armagh.75/CODE con/C id/COP e/PRO epscop/N-N insin/D+D cita/ADV ru-oirdned/ADV+VBD-RO-PASS la/P laigniu/NPRS-A
+
+armagh.76/CODE du-bbert/PV+VBD pátricc/NPR-N cumtach/N-A du/P fíacc/NPR-D ./. idon/IDEST closs/N-N 7/CONJ menstir/N-N 7/CONJ bachall/N-N 7/CONJ poolire/N-N
+
+armagh.77/CODE fácab/VBD morf.eser/NUM lais/P+PRO di/P a/PRO$ muintir/N-D IDEST/IDEST muchatócc/NPR-N inse/N-G fáil/NPR-G augustín/NPR-N inseo/N-G bicae/NPR-G tecán/NPR-N diarmuit/NPR-N naindid/NPR-N pool/NPR-N fedelmid/NPR-N
+
+armagh.78/CODE 12./CODE con-gab/PV+VBD iar/P suidiu/ANA-D i/P n/NAS domnuch/NPR-D féicc/NPR-G
+
+armagh.79/CODE et/CONJ bái/BED and/ADV con/C torchartar/VBD-RO tri/NUM fichit/NUM-S-N fer/NS-G di/P a/PRO$ muintir/N-D lais/P+PRO and/ADV
+
+armagh.80/CODE 13./CODE di/P sin/D du-lluid/PV+VBD int/D-N aingel/N-N cuci/P+PRO
+
+armagh.81/CODE 7/CONJ as-bert/PV+VBD fris/P+PRO is/COP fri/P abinn/N-A aníar/ADV atá/BE t/PRO$ esérge/VBN-N i/P cúil/N-D maige/N-G airm/N-N i/P fuirsitis/VBD-SUBJ in/D-A torcc/N-A ari/C m/NAS bad/COPV and/ADV fu-rruimtis/PV+VBD-SUBJ a/PRO$ praintech/N-A port/N-N hi/P fuirsitis/VBD-SUBJ in/D-A n-/NAS elit/N-A ari/C m/NAS bad/COPV and/ADV fu-rruimtis/PV+VBD-SUBJ a/PRO$ n-/NAS eclis/N-A
+
+armagh.82/CODE as-bert/PV+VBD fiacc/NPR-N fri/P sin/D-A aingel/N-A na-nd/NEG+XW rigad/VBC con/C tísed/VBD-SUBJ patricc/NPR-N do/P len/LEN toorund/VBN-D a/PRO$ luic/N-G lais/P+PRO 7/CONJ di/P a/PRO$ len/LEN coisecrad/VBN-D 7/CONJ co/C m/NAS bed/COPD-SUBJ húad/P+PRO nu-ggabad/PV+VBD-SUBJ a/P locc/N-A
+
+armagh.83/CODE du-lluid/PV+VBD iar/P suidiu/ANA-D patricc/NPR-N cu/P fíacc/NPR-A
+
+armagh.84/CODE 7/CONJ du-rind/PV+VBD-RO a/PRO$ locc/N-A les/P+PRO
+
+armagh.85/CODE 7/CONJ cu-t-secar/PV+X+VB
+
+armagh.86/CODE 7/CONJ fo-rruim/PV+VBD a/PRO$ forrig/N-A n-/NAS and/ADV
+
+armagh.87/CODE 7/CONJ ad-opart/PV+VBD crimthann/NPR-N in/D-A port/N-A sin/D du/P patricc/NPR-D 
+
+armagh.88 ar/P ba/COPD patricc/NPR-N du-bert/PV+VBD baithis/N-A du/P len/LEN crimthunn/NPR-D
+
+armagh.89/CODE 7/CONJ i/P slebti/NPR-D ad-ranact/PV+VBD-RO-PASS crimthann/NPR-N
+
+armagh.90/CODE 14./CODE luid/VBD sechnall/NPR-N iartain/ADV du/P len/LEN cuúrsagad/VBN-N pátricc/NPR-G im/P len/LEN carpat/N-D boie/BED-WH lais/P+PRO
+
+armagh.91/CODE di/P sin/D du-foid/PV+VB pátricc/NPR-N in/D-A carpat/N-A cu/P sechnall/NPR-A cen/P arith/N-A n-/NAS and/ADV act/P aingil/NS-N du-t-fidedar/PV+X+VBD
+
+armagh.92/CODE foidsi/VBD+PRO sechnall/NPR-N ó/P ru-an/VBD-RO .iii./NUM aithgi/NS-A and/ADV lais/P+PRO cu/P manchán/NPR-A
+
+armagh.93/CODE 7/CONJ anis/VBD .iii./NUM aithgi/NS-A la/P suide/ANA-A
+
+armagh.94/CODE foitsi/VBD+PRO side/ANA cu/P fiacc/NPR-A
+
+armagh.95/CODE dlomis/VBD fíacc/NPR-N dóib/P+PRO iar/P sin/D
+
+armagh.96/CODE it/COP é/PRO imm-e-lotar/PV+XW+VBD immu/P an-/D-D eclis/N-D fu/P len/LEN trí/NUM
+
+armagh.97/CODE con/C epert/VBD int/D-N aingel/N-N is/COP duit/P+PRO siu/PRO tucad/VBD-RO-PASS ó/P pátricc/NPR-D ó/P ru-fitir/PV+VB du/PRO$ lobri/N-A ./.
+
+armagh.98/CODE epscop/N-N aed/NPR-N bói/BED i/P sléibti/NPR-D
+
+armagh.99/CODE luid/VBD du/P ardd/N-D machae/NPR-G
+
+armagh.100/CODE birt/VBD edoct/N-A cu/P segéne/NPR-A du/P ardd/N-D machae/NPR-G
+
+armagh.101/CODE du-bbert/PV+VBD segene/NPR-N oitherroch/ADV a/PRO$ idacht/N-A du/P áid/NPR-D
+
+armagh.102/CODE 7/CONJ ad-opart/PV+VBD áed/NPR-N aidacht/N-A 7/CONJ a/PRO$ len/LEN cenél/N-A 7/CONJ a/PRO$ eclis/N-A du/P pátricc/NPR-D cubbráth/ADV
+
+armagh.103/CODE fáccab/VBD áed/NPR-N aidacht/N-A la/P conchad/NPR-A
+
+armagh.104/CODE luid/VBD conchad/NPR-N du/P art/N-D machae/NPR-G
+
+armagh.105/CODE con/C tubart/VBD fland/NPR-N feblae/NPR-N a/PRO$ len/LEN ceill/N-A dóo/P+PRO
+
+armagh.106/CODE 7/CONJ gabsi/VBD+PRO cadessin/SELF in/D-D abbaith/N-D
+
