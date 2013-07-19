@@ -64,7 +64,7 @@ cambrai.32/CODE ad-ciam/PV+VB i/P snaib/DS-D inscib/NS-D sceo/CONJ eulis/N-D ind
 
 cambrai.33/CODE filus/BE+PRO tre-chene:lae/NUM+NS-A martre/N-G daneu/FP ad-ri:miter/PV+VB-PASS ar/P len/LEN cruich/N-D du/P duiniu/N-D ,/, mad/P+COP-SUBJ esgre/VBN-N or_read ma/P de-s-gne:/PV+X+VB-SUBJ baan-martre/ADJ+N-N ocus/CONJ glas-martre/ADJ+N-N ocus/CONJ derc-martre/ADJ+N-N 
 
-cambrai.34/CODE is/COP si:/PRO ba:n-martre/ADJ+N-N du/P duiniu/N-D intain/WADV scaras/VB-WH ar/P dea/NPR-D fri/P cach/Q reet/N-A caris/VB-WH ,/, ce:/P ru/RO céssa/VB-SUBJ áini/N-A nú/CONJ laubir/N-A n/NAS oco/P+PRO ./. 
+cambrai.34/CODE is/COP si:/PRO ba:n-martre/ADJ+N-N du/P duiniu/N-D intain/WADV scaras/VB-WH ar/P dea/NPR-D fri/P cach/Q reet/N-A caris/VB-WH ,/, ce:/P ni:/NEG céssa/VB-SUBJ áini/N-A na/NEGCONJ laubir/N-A n/NAS oco/P+PRO ./. 
 
 cambrai.35/CODE is/COP si:/PRO ind/D-N glas-martre/ADJ+N-N do:/P+PRO intain/WADV scaras/VB-WH fri/P a/PRO$ len/LEN tola/NS-A leo:/P+PRO l-/CONJ ce:ssas/VB-WH sai:thor/N-A i/P ppenit/N-D ocus/CONJ aithrigi/VBN-D ./. 
 
