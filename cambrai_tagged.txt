@@ -64,7 +64,7 @@ cambrai.32/CODE ad-ciam/PV+VB i/P snaib/DS-D inscib/NS-D sceo/CONJ eulis/N-D ind
 
 cambrai.33/CODE filus/BE+PRO tre-chene:lae/NUM+NS-A martre/N-G daneu/FP ad-ri:miter/PV+VB-PASS ar/P len/LEN cruich/N-D du/P duiniu/N-D ,/, mad/P+COP-SUBJ esgre/VBN-N or_read ma/P de-s-gne:/PV+X+VB-SUBJ baan-martre/ADJ+N-N ocus/CONJ glas-martre/ADJ+N-N ocus/CONJ derc-martre/ADJ+N-N 
 
-cambrai.34/CODE is/COP si:/PRO ba:n-martre/ADJ+N-N du/P duiniu/N-D intain/WADV scaras/VB-WH ar/P dea/NPR-D fri/P cach/Q reet/N-A caris/VB-WH ,/, ce:/P ru-céssa/VB-SUBJ-RO áini/N-A nú/CONJ laubir/N-A n/NAS oco/P+PRO ./. 
+cambrai.34/CODE is/COP si:/PRO ba:n-martre/ADJ+N-N du/P duiniu/N-D intain/WADV scaras/VB-WH ar/P dea/NPR-D fri/P cach/Q reet/N-A caris/VB-WH ,/, ce:/P ru/RO céssa/VB-SUBJ áini/N-A nú/CONJ laubir/N-A n/NAS oco/P+PRO ./. 
 
 cambrai.35/CODE is/COP si:/PRO ind/D-N glas-martre/ADJ+N-N do:/P+PRO intain/WADV scaras/VB-WH fri/P a/PRO$ len/LEN tola/NS-A leo:/P+PRO l-/CONJ ce:ssas/VB-WH sai:thor/N-A i/P ppenit/N-D ocus/CONJ aithrigi/VBN-D ./. 
 
@@ -72,4 +72,4 @@ cambrai.36/CODE is/COP si:/PRO in/D-N derc-martre/ADJ+N-N do:/P+PRO foditu/VBN-N
 
 cambrai.37/CODE con-gaibetar/PV+VB inna/DS-N tre-chene:l/NUM+NS-N martre/N-G so/D i/P s/NAS snib/DS-D colnidib/ADJ-S-D tu-the:got/PV+LEN+VB dag-athrigi/ADJ+N-A ,/, scarde/VB-WH fri/P a/PRO$ tola/NS-A ,/, ce:ste/VB-WH sáithu/NS-A ,/, tu-esmot/PV+VB a/PRO$ fuil/N-A i/P n/NAS ai:ni/N-D ocuis/CONJ i/P laubair/N-D ar/P len/LEN cri:st/NPR-D ./. 
 
-cambrai.38/CODE filus/BE+PRO daneu/FP tre-chene:le/NUM+NS-A martre/N-G ata/COP-WH lo:gma:ra/ADJ-S-N le/P dea/NPR-A ,/, ar/P a/WPRO n/NAS etatham/VBF ni/PRO fochrici/NS-A ma/P no-s-comalnnamar/PV+X+VB-SUBJ -/- castitas/FW in/FW iuuentute/FW ,/, contientia/FW in/FW habundantia/FW ./. de/FW muneribus/FW peruertentibus/FW recta/FW iudicia/FW non/FW recipiendis/FW ./. 
+cambrai.38/CODE filus/BE+PRO daneu/FP tre-chene:le/NUM+NS-A martre/N-G ata/COP-WH lo:gma:ra/ADJ-S-N le/P dea/NPR-A ,/, ar/P a/WPRO n/NAS etatham/VBF ni/PRO fochrici/NS-A ma/P no-s/NO+X comalnnamar/VB-SUBJ -/- castitas/FW in/FW iuuentute/FW ,/, contientia/FW in/FW habundantia/FW ./. de/FW muneribus/FW peruertentibus/FW recta/FW iudicia/FW non/FW recipiendis/FW ./. 
