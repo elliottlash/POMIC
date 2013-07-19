@@ -148,7 +148,7 @@ armagh.73/CODE 7/CONJ baitzisi/VBD+PRO
 
 armagh.74/CODE du-bbert/PV+VBD grád/N-A n-/NAS epscoip/N-G foir/P+PRO
 
-armagh.75/CODE con/C id/COP e/PRO epscop/N-N insin/D+D cita/ADV ru-oirdned/ADV+VBD-RO-PASS la/P laigniu/NPRS-A
+armagh.75/CODE con/C id/COP e/PRO epscop/N-N insin/D+D cita/ADV ru/RO oirdned/ADV+VBD-PASS la/P laigniu/NPRS-A
 
 armagh.76/CODE du-bbert/PV+VBD pátricc/NPR-N cumtach/N-A du/P fíacc/NPR-D ./. idon/IDEST closs/N-N 7/CONJ menstir/N-N 7/CONJ bachall/N-N 7/CONJ poolire/N-N
 
@@ -182,7 +182,7 @@ armagh.90/CODE 14./CODE luid/VBD sechnall/NPR-N iartain/ADV du/P len/LEN cuúrsa
 
 armagh.91/CODE di/P sin/D du-foid/PV+VB pátricc/NPR-N in/D-A carpat/N-A cu/P sechnall/NPR-A cen/P arith/N-A n-/NAS and/ADV act/P aingil/NS-N du-t-fidedar/PV+X+VBD
 
-armagh.92/CODE foidsi/VBD+PRO sechnall/NPR-N ó/P ru-an/VBD-RO .iii./NUM aithgi/NS-A and/ADV lais/P+PRO cu/P manchán/NPR-A
+armagh.92/CODE foidsi/VBD+PRO sechnall/NPR-N ó/P ru/RO an/VBD .iii./NUM aithgi/NS-A and/ADV lais/P+PRO cu/P manchán/NPR-A
 
 armagh.93/CODE 7/CONJ anis/VBD .iii./NUM aithgi/NS-A la/P suide/ANA-A
 
