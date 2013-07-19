@@ -652,7 +652,7 @@
 				  (PP (P ma)
 				      (CP-ADV (WADVP 0)
 					      (C 0)
-					      (IP-SUB (PV+X+VB-SUBJ no-s-comalnnamar) (NP-OB1 0))))
+					      (IP-SUB (NO+X no-s) (VB-SUBJ comalnnamar)                (NP-OB1 0))))
 				  (PP *ICH*-2))))
 	  (- -)
 	  (NP-PRN (NP (FW castitas)
