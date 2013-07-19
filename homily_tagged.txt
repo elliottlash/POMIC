@@ -18,11 +18,11 @@ homily.8/CODE is/COP héside/PRO+ANA do-beir/PV+VB do/P naib/DS-D maithib/NS-D 7
 
 homily.9/CODE air/P is/COP éseom/PRO+PRO int/D-N óen/NUM día/NPR-N sainemail/ADJ-N fil/BE cen/P tossach/N-A cen/P len/LEN forcenn/N-A ./.  
 
-homily.10/CODE is/COP é/PRO do-rósat/PV+VBD-RO na/DS-A h/GEM uili/Q 7/CONJ ro-da-cruthaigestar/R+XW+VBD 7/CONJ fo-da-loing/PV+XW+VB ó/P nirt/N-D a/PRO$ len/LEN cumachtai/N-G ./.  
+homily.10/CODE is/COP é/PRO do-rósat/PV+VBD-RO na/DS-A h/GEM uili/Q 7/CONJ ro-da/RO+XW cruthaigestar/VBD 7/CONJ fo-da-loing/PV+XW+VB ó/P nirt/N-D a/PRO$ len/LEN cumachtai/N-G ./.  
 
-homily.11/CODE iss/COP é/PRO no-da-ail/PV+XW+VB 7/CONJ co-ta-ói/PV+XW+VB 7/CONJ no-da-fáiltigedar/PV+XW+VB 7/CONJ no-da-sorchaigedar/PV+XW+VB 7/CONJ co-ta-midethar/PV+XW+VB 7/CONJ do-da-raithchiúir/PV+XW+VBD-RO 7/CONJ a-ta-núigedar/PV+XW+VB na/DS-A h/GEM uili/Q ./.  
+homily.11/CODE iss/COP é/PRO no-da/NO+XW ail/VB 7/CONJ co-ta-ói/PV+XW+VB 7/CONJ no-da/NO+XW fáiltigedar/VB 7/CONJ no-da/NO+XW sorchaigedar/VB 7/CONJ co-ta-midethar/PV+XW+VB 7/CONJ do-da-raithchiúir/PV+XW+VBD-RO 7/CONJ a-ta-núigedar/PV+XW+VB na/DS-A h/GEM uili/Q ./.  
 
-homily.12/CODE is/COP ind/P+PRO no-sn-erbat/PV+X+VB ,/,  
+homily.12/CODE is/COP ind/P+PRO no-s/NO+X n/NAS erbat/VB ,/,  
 
 homily.13/CODE is/COP é/PRO fris-n-aiccet/PV+NAS+VB ;/;  
 
