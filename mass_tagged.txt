@@ -1,6 +1,6 @@
 mass.0/CODE 1./CODE ind/D-N altoir/N-N fiugor/N-N ind/D-G ingrimme/VBN-G imm-a-berr/PV+XW+VB-PASS ./.
 
-mass.1/CODE in/D-N cailech/N-N is/COP figor/N-N inna/D-G eclaise/N-G fo-ruirmed/PV+VBD-RO-PASS 7/CONJ ro-fothiged/VBD-RO-PASS for/P ingrimmim/VBN-D 7/CONJ for/P martri/N-D inna/DS-G fathe/NS-G 7/CONJ aliorum/FW ./.
+mass.1/CODE in/D-N cailech/N-N is/COP figor/N-N inna/D-G eclaise/N-G fo-ruirmed/PV+VBD-RO-PASS 7/CONJ ro/RO fothiged/VBD-PASS for/P ingrimmim/VBN-D 7/CONJ for/P martri/N-D inna/DS-G fathe/NS-G 7/CONJ aliorum/FW ./.
 
 mass.2/CODE 2./CODE huisque/N-N prius/FW in/FW calicem/FW
 
@@ -18,7 +18,7 @@ mass.8/CODE iss/COP ed/PRO canar/VB-PASS occo/P+PRO
 
 mass.9/CODE idest/IDEST ihs.-/FW xps-/FW alpha/FW 7/CONJ omega/FW hoc/FW est/FW principium/FW 7/CONJ finis/FW ./.
 
-mass.10/CODE figor/N-N cuirp/N-G crist/NPR-G ro-suidiged/VBD-RO-PASS hi/P lin-annart/N+N-D brond/N-G maire/NPR-G ./.
+mass.10/CODE figor/N-N cuirp/N-G crist/NPR-G ro/RO suidiged/VBD-PASS hi/P lin-annart/N+N-D brond/N-G maire/NPR-G ./.
 
 mass.11/CODE fin/N-N iarum/ADV ar/P huisque/N-D hi/P caelech/N-D
 
@@ -32,11 +32,11 @@ mass.15/CODE indulget/FW filius/FW ./.
 
 mass.16/CODE misseretur/FW spiritus/FW sanctus/FW :/: ./.
 
-mass.17/CODE a/WPRO canar/VB-PASS dind/P+D-D offriund/N-D for/P sen/D iter/P introit/N-A 7/CONJ orthana/NS-A 7/CONJ tormach/VBN-D corrigi/P liacht/N-A n-/NAS apstal/NS-G 7/CONJ psalm/N-A n-/NAS digrad/ADJ-A is/COP figor/N-N recto/N-G aicnith/N-G insin/D+D in/P ro-aithnuiged/VBD-RO-PASS crist/NPR-N tri/P a/PRO$ h/GEM uili/Q-A baullo/NS-A 7/CONJ gnímo/VBNS-A ./.
+mass.17/CODE a/WPRO canar/VB-PASS dind/P+D-D offriund/N-D for/P sen/D iter/P introit/N-A 7/CONJ orthana/NS-A 7/CONJ tormach/VBN-D corrigi/P liacht/N-A n-/NAS apstal/NS-G 7/CONJ psalm/N-A n-/NAS digrad/ADJ-A is/COP figor/N-N recto/N-G aicnith/N-G insin/D+D in/P ro/RO aithnuiged/VBD-PASS crist/NPR-N tri/P a/PRO$ h/GEM uili/Q-A baullo/NS-A 7/CONJ gnímo/VBNS-A ./.
 
-mass.18/CODE liacht/N-N apstal/NS-G immurgu/ADV 7/CONJ salm/N-N digrad/ADJ-N 7/CONJ ho/P LEN/LEN suidiu/ANA co/P dinochtad/VBN-A is/COP foraithmet/VBN-N ./. rechta/N-G litre/N-G in/P ro-fiugrad/VBD-PASS crist/NPR-N acht/CONJ nad/NEG-WH fess/VBD-PASS cadacht/ADV cid/WPRO ro-fiugrad/VBD-RO-PASS and/ADV ./.
+mass.18/CODE liacht/N-N apstal/NS-G immurgu/ADV 7/CONJ salm/N-N digrad/ADJ-N 7/CONJ ho/P LEN/LEN suidiu/ANA co/P dinochtad/VBN-A is/COP foraithmet/VBN-N ./. rechta/N-G litre/N-G in/P ro/RO fiugrad/VBD-PASS crist/NPR-N acht/CONJ nad/NEG-WH fess/VBD-PASS cadacht/ADV cid/WPRO ro/RO fiugrad/VBD-PASS and/ADV ./.
 
-mass.19/CODE 6./CODE in/D-N dinochtad/VBN-N corrici/P leth/N-A inna/D-G oblae/N-G 7/CONJ in/D-G cailich/N-G 7/CONJ a/WPRO canar/VB-PASS occo/P+PRO itir/P soscél/N-A 7/CONJ aillóir/N-A corrici/P oblata/FW is/COP foraithmet/VBN-N rechta/N-G fáthe/NS-G hi/P tarchet/VBD-PASS crist/NPR-N co/P follus/ADJ-N acht/P nath/NEG-WH n-/NAS aiccess/VBD-PASS co/P ro-génir/VBD-RO :/: ~/~
+mass.19/CODE 6./CODE in/D-N dinochtad/VBN-N corrici/P leth/N-A inna/D-G oblae/N-G 7/CONJ in/D-G cailich/N-G 7/CONJ a/WPRO canar/VB-PASS occo/P+PRO itir/P soscél/N-A 7/CONJ aillóir/N-A corrici/P oblata/FW is/COP foraithmet/VBN-N rechta/N-G fáthe/NS-G hi/P tarchet/VBD-PASS crist/NPR-N co/P follus/ADJ-N acht/P nath/NEG-WH n-/NAS aiccess/VBD-PASS co/P ro/RO génir/VBD :/: ~/~
 
 mass.20/CODE 7./CODE tocbál/VBN-N in/D-G cailich/N-G iar/P n-/NAS a/PRO$ lán-diurug/ADJ+N-D quando/FW canitur/FW oblata/FW is/COP foraithmet/VBN-N gene/VBN-G crist/NPR-G insin/D+D 7/CONJ á/PRO$ indocbale/N-G tre/P airde/NS-A 7/CONJ firto/NS-A ./.
 
@@ -68,9 +68,9 @@ mass.33/CODE 14./CODE in/D-N fobdod/VBN-N fo-mbaiter/PV+NAS+VB-PASS in/DS-N da/N
 
 mass.34/CODE 15.CODE in/D-N pars/N-N benar/VB-PASS a/P h/GEM ichtur/N-D ind/D-G lithe/N-G bís/BEH-WH for/P laim/N-D cli/ADJ-D figor/N-N ind/D-G aithchummi/VBN-G co/P sind/D-D lágin/N-D i/P n-/NAS oxil/N-D in/D-G tuib/N-G deiss/ADJ-G
 
-mass.35/CODE ar/P is/COP síar/ADV ro-bui/BED-RO aiged/N-N crist/NPR-G in/FW cruce/FW idest/IDEST contra/FW ciuitatem/FW
+mass.35/CODE ar/P is/COP síar/ADV ro/RO bui/BED aiged/N-N crist/NPR-G in/FW cruce/FW idest/IDEST contra/FW ciuitatem/FW
 
-mass.36/CODE 7/CONJ is/COP sair/ADV ro-búi/BED-RO aigeth/N-N lon.gini/FW
+mass.36/CODE 7/CONJ is/COP sair/ADV ro/RO búi/BED aigeth/N-N lon.gini/FW
 
 mass.37/CODE a/WPRO r/NAS robo/COPD-RO len/LEN tuaisre/N-N do/P len/LEN suidiu/ANA-D iss/COP ed/PRO ropo/COPD-RO desse/N-N do/P crist/NPR-D :/: ~/N-N
 
